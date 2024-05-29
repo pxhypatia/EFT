@@ -7,4 +7,4 @@ by Hypatia
 
 Lesson 01: Introduction to Fulu
 
-- [slide](https://github.com/pxhypatia/EFT/blob/main/EFT01.pdf)
+- [[Slide]](https://github.com/pxhypatia/EFT/blob/main/EFT01.pdf)
