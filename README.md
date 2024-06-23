@@ -16,4 +16,8 @@ Lesson 02: Fulu Design 1
 
 Lesson 03: Fulu Design 2
 - [[Slide]](https://github.com/pxhypatia/EFT/blob/main/EFT03.pdf)
+- [[Video]](https://www.bilibili.com/video/BV1ts421u7Xv/)
+
+Lesson 03: Fulu Review
+- [[Slide]](https://github.com/pxhypatia/EFT/blob/main/EFT04.pdf)
 - [[Video]](#)
